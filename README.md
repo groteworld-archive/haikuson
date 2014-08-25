@@ -28,7 +28,7 @@ the more complex
 		"name": "Kobayashi Issa"
 		"region": "Japan"
 	},
-	"title": ""
+	"title": "spring rain"
 	"haiku": [
 		"harusame ya",
 		"kuware-nokori no",
